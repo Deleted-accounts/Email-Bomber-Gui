@@ -29,7 +29,7 @@ window.resizable(False, False)
 window.configure(background='AntiqueWhite1')
 
 try:
-    photo = PhotoImage(file="bhg.gif")
+    photo = PhotoImage(file="bg.gif")
     w = Label(window, image=photo)
     w.pack()
     ent = Entry(window)
