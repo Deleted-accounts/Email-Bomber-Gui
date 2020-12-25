@@ -16,5 +16,4 @@ if you don't have python, You can download it after [convertion to exe](https://
 don't forget to download the [background file](https://github.com/Deleted-accounts/Email-Bomber-Gui/blob/main/bg.gif) and paste it in the bomber folder.
  
 **very important! go to https://myaccount.google.com/lesssecureapps end enable it!**
-
-enjoi
+Enjoi
