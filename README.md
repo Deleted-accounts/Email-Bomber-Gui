@@ -1,4 +1,4 @@
-# Email-Bomber-Gui
+# Email-Bomber-Gui🤩
 
 <p align="center"><img src="preview.png" alt="PREVIEW"></p>
 
